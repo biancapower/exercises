@@ -1,0 +1,5 @@
+puts "Welcome to the bank!"
+
+puts "What transaction would you like to do? withdraw or deposit?"
+
+transaction = gets.chomp
