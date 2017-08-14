@@ -1,0 +1,8 @@
+=begin
+Create a Celsius class, that takes the temperature as a parameter.
+
+Remember to use the `initialize` method
+Define a method that returns the temperature in Fahrenheit. For the conversion we can use the formula `temperature*1.8 + 32`. Round up the result so it doesn’t contain any decimal values.
+
+Use the round method
+=end

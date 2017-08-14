@@ -1,0 +1,5 @@
+figma.com   free diagramming tool
+
+Is it a class? Ask yourself "Do I have multiple?"
+
+If it's an action, it could be a method
